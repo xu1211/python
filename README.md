@@ -3,6 +3,8 @@
  
 内容：
   - [python语法](./基础语法)
+   - pip
+   - 虚拟环境
   - [python工具项目](./pythonUtils)
     - [java工具](pythonUtils/java)
       - [生成转换对象](pythonUtils/java/converter)
